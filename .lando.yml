@@ -1,0 +1,7 @@
+name: drupaldev
+recipe: drupal8
+config:
+  webroot: web
+  xdebug: true
+  php: 7.2
+  via: apache:2.4
